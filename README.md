@@ -1,4 +1,4 @@
-<img src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/Anderson%20Andr%C3%A9.png" width="100%">
+<img src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/anderson.png" width="100%">
 
 **About Me:** 
 - 👋 Hi, I’m web developer.
@@ -8,3 +8,6 @@
 
 **Languages and tools:**
 
+<img align="left" height="20" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/html.png">
+<img align="left" height="20" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/css.png">
+<img align="left" height="20" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/js.png">
