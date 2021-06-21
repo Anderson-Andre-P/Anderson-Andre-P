@@ -1,11 +1,10 @@
-![foto](foto.png)
+<img src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/Anderson%20Andr%C3%A9.png" width="100%">
 
-- 👋 Hi, I’m @Anderson-Andre-P
+**About Me:** 
+- 👋 Hi, I’m web developer.
 - 👀 I’m interested in web development,both on the front-end and on the back-end.
 - 🌱 I’m currently learning Python to back-end (data base, Django) & JavaScript to front-end (no frameworks for now).
 - 📫 How to reach me: send me an email to andreandersoncaue.e@gmail.com.
 
-<!---
-Anderson-Andre-P/Anderson-Andre-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages and tools:**
+
