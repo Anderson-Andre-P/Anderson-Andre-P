@@ -1,5 +1,11 @@
 <img src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/anderson.png" width="100%">
 
+**Hi, I'm Anderson André!**
+
+<img src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/astronaut.gif" width="75">
+
+* * *
+
 **About Me:** 
 - 👋 Hi, I’m web developer.
 - 👀 I’m interested in web development,both on the front-end and on the back-end.
