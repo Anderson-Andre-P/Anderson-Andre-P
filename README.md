@@ -17,4 +17,4 @@
 <img align="left" height="20" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/Html.png">
 <img align="left" height="20" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/Css.png">
 <img align="left" height="20" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/Js.png">
-<img align="left" height="20" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/Tailwind.png">
+<img align="left" width="25" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/Tailwind.png">
