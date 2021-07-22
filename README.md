@@ -14,6 +14,7 @@
 
 **Languages and tools:**
 
-<img align="left" height="20" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/html.png">
-<img align="left" height="20" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/css.png">
-<img align="left" height="20" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/js.png">
+<img align="left" height="20" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/Html.png">
+<img align="left" height="20" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/Css.png">
+<img align="left" height="20" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/Js.png">
+<img align="left" height="20" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/Tailwind.png">
