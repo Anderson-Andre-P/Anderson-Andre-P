@@ -1,6 +1,17 @@
-<!-- <img src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/anderson.png" width="100%"> -->
+## Hi, I'm Anderson André!
 
-**Hi, I'm Anderson André!**
+I'm a front-end development student who loves the vastness of technology and who is always looking to be better than yesterday!
+
+<br/>• Focused on **Javascript** stack
+<br/>• Enthusiast about the best **web development** technologies
+<br/>• I **love to talk about**: Music, Programming, Astronomy and Biology
+
+**Skills I'm currently developing**:</br>
+HTML5 • CSS3 • Javascript ES6+ • ReactJS • Tailwind CSS
+
+**Skills I'm interested in developing**:</br>
+SASS • Typescript • Jest • Axios • Webpack • SEO • Bootstrap • Material UI • Jquery • Nodejs • Express • Rest APIs
+
 
 <div>
  <a href="https://github.com/Anderson-Andre-P"></a>
@@ -8,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Andre-P&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
@@ -16,7 +27,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
 </div>
- 
+  -->
  ##
  
  <div> 
