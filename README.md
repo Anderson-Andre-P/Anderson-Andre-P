@@ -6,12 +6,15 @@ I'm a front-end development student who loves the vastness of technology and who
 <br/>• Enthusiast about the best **web development** technologies
 <br/>• I **love to talk about**: Music, Programming, Astronomy and Biology
 
+</br>
+
 **Skills I'm currently developing**:</br>
 HTML5 • CSS3 • Javascript ES6+ • ReactJS • Tailwind CSS
 
 **Skills I'm interested in developing**:</br>
 SASS • Typescript • Jest • Axios • Webpack • SEO • Bootstrap • Material UI • Jquery • Nodejs • Express • Rest APIs
 
+</br>
 
 <div>
  <a href="https://github.com/Anderson-Andre-P"></a>
