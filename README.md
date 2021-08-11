@@ -1,4 +1,4 @@
-## Hi, I'm Anderson André!
+<h1>Hi, I'm Anderson André!</h1>
 
 I'm a front-end development student who loves the vastness of technology and who is always looking to be better than yesterday!
 
