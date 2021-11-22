@@ -9,10 +9,10 @@ I'm a front-end development student who loves the vastness of technology and who
 </br>
 
 **Skills I'm currently developing**:</br>
-HTML5 • CSS3 • Javascript ES6+ • ReactJS • Tailwind CSS
+HTML5 • CSS3 • Javascript ES6+ • ReactJS • Tailwind CSS • Angular • Typescript
 
 **Skills I'm interested in developing**:</br>
-SASS • Typescript • Jest • Axios • Webpack • SEO • Bootstrap • Material UI • Jquery • Nodejs • Express • Rest APIs
+Framer Motion • Chakra UI • SASS • Jest • Axios • Webpack • SEO • Bootstrap • Material UI • Jquery • Nodejs • Express • Rest APIs
 
 </br>
 
