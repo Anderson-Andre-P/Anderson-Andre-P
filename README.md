@@ -12,7 +12,7 @@ Sou um estudante de desenvolvimento front-end que ama a vastidão da tecnologia 
 HTML5 • CSS3 • Javascript ES6+ • ReactJS • Tailwind CSS • Typescript
 
 **Habilidades que estou interessado em desenvolver**:</br>
-Framer Motion • Chakra UI • SASS • Jest • Axios • NodeJS  • NextJS
+Framer Motion • Chakra UI • SASS • Jest • Axios • NodeJS  • NextJS • React Native • AWS
 
 </br>
 
