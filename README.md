@@ -1,18 +1,18 @@
-<h1>Hi, I'm Anderson André!</h1>
+<h1>Olá, me chamo Anderson André!</h1>
 
-I'm a front-end development student who loves the vastness of technology and who is always looking to be better than yesterday!
+Sou um estudante de desenvolvimento front-end que ama a vastidão da tecnologia e está sempre procurando ser melhor do que ontem!
 
-<br/>• Focused on **Javascript** stack
-<br/>• Enthusiast about the best **web development** technologies
-<br/>• I **love to talk about**: Music, Programming, Astronomy and Biology
+<br/>• Focado na stack do **Javascript**
+<br/>• entusiasta das melhores tecnologias de **desenvolvimento web**
+<br/>• Eu **amo falar sobre**: Programação, Astronomia e Biologia
 
 </br>
 
-**Skills I'm currently developing**:</br>
+**Habilidades que estou desenvolvendo atualmente**:</br>
 HTML5 • CSS3 • Javascript ES6+ • ReactJS • Tailwind CSS • Typescript
 
-**Skills I'm interested in developing**:</br>
-Framer Motion • Chakra UI • SASS • Jest • Axios • Nodejs
+**Habilidades que estou interessado em desenvolver**:</br>
+Framer Motion • Chakra UI • SASS • Jest • Axios • NodeJS  • NextJS
 
 </br>
 
