@@ -1,44 +1,36 @@
 <h1>Olá, me chamo Anderson André!</h1>
 
-Sou um estudante de desenvolvimento front-end que ama a vastidão da tecnologia e está sempre procurando ser melhor do que ontem!
+Permita-me falar um pouco sobre mim. Sou um estudante de desenvolvimento front-end que ama a vastidão da tecnologia e está sempre procurando ser melhor do que ontem! Ao longo da minha carreira atuei em projetos onde pude exercer minhas habilidades com programação web, mobile e design (UI/UX).
 
-<br/>• Focado na stack do **Javascript**
-<br/>• entusiasta das melhores tecnologias de **desenvolvimento web**
+Atualmente atuo como desenvolvedor mobile em uma produtora de software e minhas principais atividades são: desenvolver telas e funcionalidades de um aplicativo com a ferramenta Flutter.
+
+• Focado na stack do **Javascript**
+<br/>• Entusiasta das melhores tecnologias de **desenvolvimento web** e **mobile**
 <br/>• Eu **amo falar sobre**: Programação, Astronomia e Biologia
 
-</br>
-
 **Habilidades que estou desenvolvendo atualmente**:</br>
-HTML5 • CSS3 • Javascript ES6+ • ReactJS • Tailwind CSS • Typescript
+Javascript ES6+ • ReactJS • React Native • Typescript
 
 **Habilidades que estou interessado em desenvolver**:</br>
-Framer Motion • Chakra UI • SASS • Jest • Axios • NodeJS  • NextJS • React Native • AWS
+Framer Motion • Chakra UI • Jest • NodeJS • Nest • Express • NextJS • AWS
 
-</br>
+## Últimas experiências profissionais
+### Procon - Desenvolvedor web
+#### Novembro/Dezembro - 2021
+Atividades exercidas:
+<br/>• Desenvolvimento de design de interfaces web
+<br/>• Desenvolvimento de interfaces web fiéis aos design utilizando: Angular, TypeScript e Bootstrap
 
-<div>
- <a href="https://github.com/Anderson-Andre-P"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson-Andre-P&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Andre-P&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
-<!-- <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
-</div>
-  -->
- ##
+<hr/>
+
+### Foursys - Desenvlvedor mobile
+#### Abril/Atualmente - 2022
+Atividades exercidas:
+<br/>• Desenvolvimento de telas fiéis ao design para aplicativos da empresa utilizando: Flutter e Dart
+
+<hr/>
  
  <div> 
   <a href = "mailto:andreandersoncaue.e@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-andre-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-<!-- ![Snake animation](https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/output/github-contribution-grid-snake.svg) -->
- 
 </div>
-
- 
