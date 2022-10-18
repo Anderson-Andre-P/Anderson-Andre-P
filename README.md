@@ -2,17 +2,17 @@
 
 Permita-me falar um pouco sobre mim. Sou um estudante de desenvolvimento front-end que ama a vastidão da tecnologia e está sempre procurando ser melhor do que ontem! Ao longo da minha carreira atuei em projetos onde pude exercer minhas habilidades com programação web, mobile e design (UI/UX).
 
-Atualmente atuo como desenvolvedor mobile em uma produtora de software e minhas principais atividades são: desenvolver telas e funcionalidades de um aplicativo com a ferramenta Flutter.
+Atualmente atuo como desenvolvedor mobile e web em uma produtora de software e minhas principais atividades são: corrigir bugs, desenvolver telas e funcionalidades de aplicativos com a ferramenta Flutter.
 
 • Focado na stack do **Javascript**
 <br/>• Entusiasta das melhores tecnologias de **desenvolvimento web** e **mobile**
 <br/>• Eu **amo falar sobre**: Programação, Astronomia e Biologia
 
 **Habilidades que estou desenvolvendo atualmente**:</br>
-Javascript ES6+ • ReactJS • React Native • Typescript
+Dart • Flutter • Firebase • MobX
+ 
+<!-- **Habilidades que estou interessado em desenvolver**:</br> -->
 
-**Habilidades que estou interessado em desenvolver**:</br>
-Framer Motion • Chakra UI • Jest • NodeJS • Nest • Express • NextJS • AWS
 
 ## Últimas experiências profissionais
 ### Procon - Desenvolvedor web
@@ -26,7 +26,8 @@ Atividades exercidas:
 ### Foursys - Desenvlvedor mobile
 #### Abril/Atualmente - 2022
 Atividades exercidas:
-<br/>• Desenvolvimento de telas fiéis ao design para aplicativos da empresa utilizando: Flutter e Dart
+<br/>• Resolução de bugs
+<br/>• Desenvolvimento de interfaces web e mobile fiéis ao design utilizando: Flutter e Dart
 
 <hr/>
  
