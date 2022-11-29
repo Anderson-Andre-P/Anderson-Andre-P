@@ -23,11 +23,11 @@ Atividades exercidas:
 
 <hr/>
 
-### Foursys - Desenvlvedor mobile
+### Foursys - Desenvolvedor mobile
 #### Abril/Atualmente - 2022
 Atividades exercidas:
 <br/>• Resolução de bugs
-<br/>• Desenvolvimento de interfaces web e mobile fiéis ao design utilizando: Flutter e Dart
+<br/>• Desenvolvimento de interfaces web e mobile fiéis ao design utilizando Flutter e Dart
 
 <hr/>
  
