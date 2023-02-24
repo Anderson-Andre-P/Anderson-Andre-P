@@ -1,4 +1,4 @@
-<h1>Olá, me chamo Anderson André!</h1>
+<h1>Hello, my name is Anderson André!</h1>
 
 I'm Anderson André, an Information Systems student at the Itajubá Teaching and Research Foundation (FEPI), with a focus on Data Science and Artificial Intelligence. My technical skills include Python, Docker, C, C++, Git, Data Analysis, Pandas, Scikit-learn, Numpy, SQL, Object Oriented Programming, agile methodologies, Scrum, design and Linux. In addition, I have good oral and written communication skills and a technical level of English.
 
@@ -17,7 +17,7 @@ Docker • NLTK • Data Structures • Cloud • Data Security
 
 
 ## Latest professional experiences
-### Procon - wb developer
+### Procon - web developer
 #### November/December - 2021
 Activities performed:
 <br/>• Web interface design development
