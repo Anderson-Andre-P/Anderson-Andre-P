@@ -1,35 +1,44 @@
 <h1>Olá, me chamo Anderson André!</h1>
 
-Permita-me falar um pouco sobre mim. Sou um estudante de desenvolvimento front-end que ama a vastidão da tecnologia e está sempre procurando ser melhor do que ontem! Ao longo da minha carreira atuei em projetos onde pude exercer minhas habilidades com programação web, mobile e design (UI/UX).
+I'm Anderson André, an Information Systems student at the Itajubá Teaching and Research Foundation (FEPI), with a focus on Data Science and Artificial Intelligence. My technical skills include Python, Docker, C, C++, Git, Data Analysis, Pandas, Scikit-learn, Numpy, SQL, Object Oriented Programming, agile methodologies, Scrum, design and Linux. In addition, I have good oral and written communication skills and a technical level of English.
 
-Atualmente atuo como desenvolvedor mobile e web em uma produtora de software e minhas principais atividades são: corrigir bugs, desenvolver telas e funcionalidades de aplicativos com a ferramenta Flutter.
+Previously, I worked as a mobile and web developer at a software production company, where I was responsible for fixing bugs and developing application screens and functionalities with the Flutter framework. I also participate in personal projects to improve my skills in Data Science and Artificial Intelligence.
 
-• Focado na stack do **Javascript**
-<br/>• Entusiasta das melhores tecnologias de **desenvolvimento web** e **mobile**
-<br/>• Eu **amo falar sobre**: Programação, Astronomia e Biologia
+I am looking for new challenges and projects that allow me to grow even more in the field of Data Science and Artificial Intelligence, where I can apply my technical skills and non-technical skills, successfully contributing to the development of efficient and effective solutions.
 
-**Habilidades que estou desenvolvendo atualmente**:</br>
-Dart • Flutter • Firebase • MobX
+• Focused on developing my **data science** skills
+<br/>• Enthusiast of the best **data science** and **artificial intelligence** technologies
+<br/>• I **love talking about**: Programming, Astronomy and Biology (especially dinosaurs)
+
+**Skills I'm currently developing**:</br>
+Docker • NLTK • Data Structures • Cloud • Data Security
  
-<!-- **Habilidades que estou interessado em desenvolver**:</br> -->
+<!-- **Skills I'm interested in developing**:</br> -->
 
 
-## Últimas experiências profissionais
-### Procon - Desenvolvedor web
-#### Novembro/Dezembro - 2021
-Atividades exercidas:
-<br/>• Desenvolvimento de design de interfaces web
-<br/>• Desenvolvimento de interfaces web fiéis aos design utilizando: Angular, TypeScript e Bootstrap
+## Latest professional experiences
+### Procon - wb developer
+#### November/December - 2021
+Activities performed:
+<br/>• Web interface design development
+<br/>• Development of web interfaces faithful to the design using: Angular, TypeScript and Bootstrap
+
+<hr/>
+
+### Foursys - software development intern
+#### April/October - 2022
+Activities performed:
+<br/>• I developed my interpersonal skills and had the opportunity to learn Flutter
+<br/>• Bug fixing
+<br/>• Development of web and mobile interfaces faithful to the design using Flutter and Dart
 
 <hr/>
 
-### Foursys - Desenvolvedor mobile
-#### Abril/Atualmente - 2022
-Atividades exercidas:
-<br/>• Resolução de bugs
-<br/>• Desenvolvimento de interfaces web e mobile fiéis ao design utilizando Flutter e Dart
-
-<hr/>
+### Foursys - mobile developer
+#### October - 2022 | January - 2023
+Activities performed:
+<br/>• Bugfixing
+<br/>• Development of web and mobile interfaces faithful to the design using Flutter and Dart
  
  <div> 
   <a href = "mailto:andreandersoncaue.e@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
