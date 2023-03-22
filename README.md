@@ -1,17 +1,20 @@
 <h1>Hello, my name is Anderson André!</h1>
 
-I'm Anderson André, an Information Systems student at the Itajubá Teaching and Research Foundation (FEPI), with a focus on Data Science and Artificial Intelligence. My technical skills include Python, Docker, C, C++, Git, Data Analysis, Pandas, Scikit-learn, Numpy, SQL, Object Oriented Programming, agile methodologies, Scrum, design and Linux. In addition, I have good oral and written communication skills and a technical level of English.
+As a software developer named Anderson André, I have a background in Information Systems and a passion for developing efficient and effective software solutions. My technical skills cover a broad range of areas, including containerization, version control, data analysis, machine learning, database management, and software design. I am also familiar with various agile methodologies and project management frameworks such as Scrum.
 
-Previously, I worked as a mobile and web developer at a software production company, where I was responsible for fixing bugs and developing application screens and functionalities with the Flutter framework. I also participate in personal projects to improve my skills in Data Science and Artificial Intelligence.
+Previously, I worked as a mobile and web developer at a software production company, where I was responsible for developing application screens and functionalities using modern frameworks and libraries. I also have experience in fixing bugs and troubleshooting issues in existing software systems. Apart from my professional experience, I am always working on personal projects to improve my skills and keep up with the latest trends and advancements in the industry.
 
-I am looking for new challenges and projects that allow me to grow even more in the field of Data Science and Artificial Intelligence, where I can apply my technical skills and non-technical skills, successfully contributing to the development of efficient and effective solutions.
+In addition to my technical skills, I possess a variety of soft skills that are essential for success in software development. I have strong problem-solving abilities and can quickly adapt to changing circumstances. I am also an effective communicator and collaborator, with excellent written and verbal communication skills. I am able to work well in a team environment, and I am always willing to lend a helping hand to my colleagues.
 
-• Focused on developing my **data science** skills
-<br/>• Enthusiast of the best **data science** and **artificial intelligence** technologies
-<br/>• I **love talking about**: Programming, Astronomy and Biology (especially dinosaurs)
+I am eager to take on new challenges and work on projects that allow me to further develop my skills in software development. My goal is to leverage my technical and non-technical skills to contribute to the development of efficient and effective software solutions.
+
+Currently, I am focused on honing my skills in containerization, data structures, cloud computing, and data security. I stay up to date with the latest technological advancements in these areas and strive to integrate them into my work. Outside of software development, I have a keen interest in astronomy, biology, and other scientific fields. I am always happy to engage in conversations about a wide range of topics and share knowledge with others.
+
+• Focused on developing my **software development** skills
+<br/>• Enthusiast of the **great web apps** and **artificial intelligence** technologies
 
 **Skills I'm currently developing**:</br>
-Docker • NLTK • Data Structures • Cloud • Data Security
+Cloud • Data Security • **Performance** • **Aggregate Value**
  
 <!-- **Skills I'm interested in developing**:</br> -->
 
