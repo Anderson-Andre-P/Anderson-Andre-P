@@ -1,6 +1,6 @@
 <h1>Hello, my name is Anderson André!</h1>
 
-As a software developer named Anderson André, I have a background in Information Systems and a passion for developing efficient and effective software solutions. My technical skills cover a broad range of areas, including containerization, version control, data analysis, machine learning, database management, and software design. I am also familiar with various agile methodologies and project management frameworks such as Scrum.
+As a software developer named Anderson André, I have a background in Information Systems and a passion for developing efficient and effective software solutions. My technical skills cover a broad range of areas, including OOP, version control, database management and software design (MVC & MVVM). I am also familiar with various agile methodologies and project management frameworks such as Scrum.
 
 Previously, I worked as a mobile and web developer at a software production company, where I was responsible for developing application screens and functionalities using modern frameworks and libraries. I also have experience in fixing bugs and troubleshooting issues in existing software systems. Apart from my professional experience, I am always working on personal projects to improve my skills and keep up with the latest trends and advancements in the industry.
 
@@ -18,13 +18,12 @@ Archtetures MVVM & MVP • OOP • **Performance** • **Aggregate Value**
  
 <!-- **Skills I'm interested in developing**:</br> -->
 
-
 ## Latest professional experiences
-### Procon - web developer
-#### November/December - 2021
+### Foursys - mobile developer
+#### October - 2022 | January - 2023
 Activities performed:
-<br/>• Web interface design development
-<br/>• Development of web interfaces faithful to the design using: Angular, TypeScript and Bootstrap
+<br/>• Bugfixing
+<br/>• Development of web and mobile interfaces faithful to the design using Flutter and Dart
 
 <hr/>
 
@@ -37,11 +36,13 @@ Activities performed:
 
 <hr/>
 
-### Foursys - mobile developer
-#### October - 2022 | January - 2023
+### Procon - web developer
+#### November/December - 2021
 Activities performed:
-<br/>• Bugfixing
-<br/>• Development of web and mobile interfaces faithful to the design using Flutter and Dart
+<br/>• Web interface design development
+<br/>• Development of web interfaces faithful to the design using: Angular, TypeScript and Bootstrap
+
+<hr/>
  
  <div> 
   <a href = "mailto:andreandersoncaue.e@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
