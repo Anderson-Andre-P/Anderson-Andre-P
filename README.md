@@ -14,7 +14,7 @@ Currently, I am focused on honing my skills in containerization, data structures
 <br/>• Enthusiast of the **great web apps** and **artificial intelligence** technologies
 
 **Skills I'm currently developing**:</br>
-Cloud • Data Security • **Performance** • **Aggregate Value**
+Archtetures MVVM & MVP • OOP • **Performance** • **Aggregate Value**
  
 <!-- **Skills I'm interested in developing**:</br> -->
 
