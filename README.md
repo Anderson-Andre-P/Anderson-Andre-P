@@ -20,46 +20,46 @@ Archtetures MVVM & MVP • OOP • **Performance** • **Aggregate Value**
 
 ## Latest professional experiences
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src=""/>](https://www.ietecnologia.com/)
+[<img align="left" height="120px" width="120px" alt="IE Tecnologia" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/ie_logo.jpeg"/>](https://www.ietecnologia.com/)
 
 **Software Development** \
 [**IE Tecnologia**](https://www.ietecnologia.com/) • Full-time \
-Languages & Tecnologies: `Dart`, `Flutter`, `Angular`, `JavaScript`, `HTML`, `CSS`,\
-Activities performed:
-• Bug fixing • Mobile interface design development • Development of web interfaces faithful to the design using: Angular and JavaScript • Development of mobile interfaces faithful to the design using Flutter and Dart
+Languages & Tecnologies: `Dart`, `Flutter`, `Angular`, `JavaScript`, `HTML`, `CSS` \
+Activities performed: Bug fixing, mobile interface design development, development of web and mobile interfaces faithful to the design. \
+Period: April - 2023 | at the moment
 
 <br/>
 
-### IE Tecnologia - software development
-#### April - 2023 | at the moment
+[<img align="left" height="120px" width="120px" alt="Foursys" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/foursys_logo.jpeg"/>](https://www.foursys.com.br/)
 
+**Mobile Developer** \
+[**Foursys - Soluções em TI**](https://www.foursys.com.br/) • Full-time \
+Languages & Tecnologies: `Dart`, `Flutter`, `JavaScript`, `HTML`, `CSS` \
+Activities performed: Bug fixing, development of web and mobile interfaces faithful to the design. \
+Period: October - 2022 | January - 2023
 
-<hr/>
+<br />
 
-### Foursys - mobile developer
-#### October - 2022 | January - 2023
-Activities performed:
-<br/>• Bug fixing
-<br/>• Development of web and mobile interfaces faithful to the design using Flutter and Dart
+[<img align="left" height="120px" width="120px" alt="Foursys" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/foursys_logo.jpeg"/>](https://www.foursys.com.br/)
 
-<hr/>
+**Software Development** \
+[**Foursys - Soluções em TI**](https://www.foursys.com.br/) • Part-time (Intern) \
+Languages & Tecnologies: `Dart`, `Flutter`, `JavaScript`, `HTML`, `CSS` \
+Activities performed: Bug fixing, development of web and mobile interfaces faithful to the design. \
+Period: April/October - 2022
 
-### Foursys - software development
-#### April/October - 2022
-Activities performed:
-<br/>• I developed my interpersonal skills and had the opportunity to learn Flutter
-<br/>• Bug fixing
-<br/>• Development of web and mobile interfaces faithful to the design using Flutter and Dart
+<br />
 
-<hr/>
+[<img align="left" height="120px" width="120px" alt="Foursys" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/prefeitura_logo.jpeg"/>](https://itajuba.proconvoce.com.br/)
 
-### Procon - web developer
-#### November/December - 2021
-Activities performed:
-<br/>• Web interface design development
-<br/>• Development of web interfaces faithful to the design using: Angular, TypeScript and Bootstrap
+**Web Developer** \
+[**Procon**](https://itajuba.proconvoce.com.br/) • Part-time (Intern) \
+Languages & Tecnologies: `HTML`, `CSS`, `JavaScript`, `Angular`, `TypeScript`, `Bootstrap` \
+Activities performed: Web interface design development, development of web interfaces faithful to the design. \
+Period: November/December - 2021
 
-<hr />
+<br />
+
  
  <div> 
   <a href = "mailto:andreandersoncaue.e@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-404D59?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
