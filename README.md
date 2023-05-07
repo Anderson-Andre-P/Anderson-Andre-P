@@ -19,15 +19,26 @@ Archtetures MVVM & MVP • OOP • **Performance** • **Aggregate Value**
 <!-- **Skills I'm interested in developing**:</br> -->
 
 ## Latest professional experiences
+
+### IE Tecnologia - software development
+#### April - 2023 | at the moment
+Activities performed:
+<br/>• Bug fixing
+<br/>• Mobile interface design development
+<br/>• Development of web interfaces faithful to the design using: Angular and JavaScript
+<br/>• Development of mobile interfaces faithful to the design using Flutter and Dart
+
+<hr/>
+
 ### Foursys - mobile developer
 #### October - 2022 | January - 2023
 Activities performed:
-<br/>• Bugfixing
+<br/>• Bug fixing
 <br/>• Development of web and mobile interfaces faithful to the design using Flutter and Dart
 
 <hr/>
 
-### Foursys - software development intern
+### Foursys - software development
 #### April/October - 2022
 Activities performed:
 <br/>• I developed my interpersonal skills and had the opportunity to learn Flutter
@@ -42,7 +53,7 @@ Activities performed:
 <br/>• Web interface design development
 <br/>• Development of web interfaces faithful to the design using: Angular, TypeScript and Bootstrap
 
-<hr/>
+<hr />
  
  <div> 
   <a href = "mailto:andreandersoncaue.e@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
