@@ -1,6 +1,6 @@
 <h1>Hello, my name is Anderson André!</h1>
 
-As a software developer named Anderson André, I have a background in Information Systems and a passion for developing efficient and effective software solutions. My technical skills cover a broad range of areas, including OOP, version control, database management and software design (MVC & MVVM). I am also familiar with various agile methodologies and project management frameworks such as Scrum.
+Software developer with a background in Information Systems and a passion for developing efficient and effective software solutions. My technical skills cover a broad range of areas, including OOP, version control, database management and software design (MVC & MVVM). I am also familiar with various agile methodologies and project management frameworks such as Scrum.
 
 Previously, I worked as a mobile and web developer at a software production company, where I was responsible for developing application screens and functionalities using modern frameworks and libraries. I also have experience in fixing bugs and troubleshooting issues in existing software systems. Apart from my professional experience, I am always working on personal projects to improve my skills and keep up with the latest trends and advancements in the industry.
 
@@ -10,8 +10,8 @@ I am eager to take on new challenges and work on projects that allow me to furth
 
 Currently, I am focused on honing my skills in containerization, data structures, cloud computing, and data security. I stay up to date with the latest technological advancements in these areas and strive to integrate them into my work. Outside of software development, I have a keen interest in astronomy, biology, and other scientific fields. I am always happy to engage in conversations about a wide range of topics and share knowledge with others.
 
-• Focused on developing my **software development** skills
-<br/>• Enthusiast of the **great web apps** and **artificial intelligence** technologies
+• I am currently Focused on developing my **software development skills**
+<br/>• Enthusiast of the **great web apps** and **modern** technologies
 
 **Skills I'm currently developing**:</br>
 Archtetures MVVM & MVP • OOP • **Performance** • **Aggregate Value**
