@@ -1,4 +1,4 @@
-<h1>Hello, my name is Anderson André!</h1>
+## Hello, my name is Anderson André!
 
 Software developer with a background in Information Systems and a passion for developing efficient and effective software solutions. My technical skills cover a broad range of areas, including OOP, version control, database management and software design (MVC & MVVM). I am also familiar with various agile methodologies and project management frameworks such as Scrum.
 
@@ -60,6 +60,8 @@ Period: November/December - 2021
 
 <br />
 
+
+## Where to find me
  
  <div> 
   <a href = "mailto:andreandersoncaue.e@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-404D59?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
