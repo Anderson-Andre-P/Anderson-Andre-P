@@ -20,13 +20,19 @@ Archtetures MVVM & MVP • OOP • **Performance** • **Aggregate Value**
 
 ## Latest professional experiences
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src=""/>](https://www.ietecnologia.com/)
+
+**Software Development** \
+[**IE Tecnologia**](https://www.ietecnologia.com/) • Full-time \
+Languages & Tecnologies: `Dart`, `Flutter`, `Angular`, `JavaScript`, `HTML`, `CSS`,\
+Activities performed:
+• Bug fixing • Mobile interface design development • Development of web interfaces faithful to the design using: Angular and JavaScript • Development of mobile interfaces faithful to the design using Flutter and Dart
+
+<br/>
+
 ### IE Tecnologia - software development
 #### April - 2023 | at the moment
-Activities performed:
-<br/>• Bug fixing
-<br/>• Mobile interface design development
-<br/>• Development of web interfaces faithful to the design using: Angular and JavaScript
-<br/>• Development of mobile interfaces faithful to the design using Flutter and Dart
+
 
 <hr/>
 
