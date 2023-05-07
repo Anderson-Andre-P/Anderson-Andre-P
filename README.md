@@ -25,7 +25,7 @@ Archtetures MVVM & MVP • OOP • **Performance** • **Aggregate Value**
 **Software Development** \
 [**IE Tecnologia**](https://www.ietecnologia.com/) • Full-time \
 Languages & Tecnologies: `Dart`, `Flutter`, `Angular`, `JavaScript`, `HTML`, `CSS` \
-Activities performed: Bug fixing, mobile interface design development, development of web and mobile interfaces faithful to the design. \
+Activities performed: Bug fixing, interface design, development of web and mobile interfaces faithful to the design. \
 Period: April - 2023 | at the moment
 
 <br/>
