@@ -8,13 +8,13 @@ In addition to my technical skills, I possess a variety of soft skills that are 
 
 I am eager to take on new challenges and work on projects that allow me to further develop my skills in software development. My goal is to leverage my technical and non-technical skills to contribute to the development of efficient and effective software solutions.
 
-Currently, I am focused on honing my skills in containerization, data structures, cloud computing, and data security. I stay up to date with the latest technological advancements in these areas and strive to integrate them into my work. Outside of software development, I have a keen interest in astronomy, biology, and other scientific fields. I am always happy to engage in conversations about a wide range of topics and share knowledge with others.
+Currently, I am focused on honing my skills in JS Stack to develop for web and Mobile.
 
 • I am currently Focused on developing my **software development skills**
 <br/>• Enthusiast of the **great web apps** and **modern** technologies
 
 **Skills I'm currently developing**:</br>
-Archtetures MVVM & MVP • OOP • **Performance** • **Aggregate Value**
+Archtetures MVVM & MVP • Clean Code • **Performance** • **NextJS**
  
 <!-- **Skills I'm interested in developing**:</br> -->
 
