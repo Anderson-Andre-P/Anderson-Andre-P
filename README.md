@@ -24,7 +24,7 @@ Archtetures MVVM & MVP • Clean Code • **Performance** • **NextJS**
 
 **Software Development** \
 [**IE Tecnologia**](https://www.ietecnologia.com/) • Full-time \
-Languages & Tecnologies: `Dart`, `Flutter`, `Angular`, `JavaScript`, `HTML`, `CSS`, `Firebase`, `Publicação de aplicativos nas lojas` \
+Languages & Tecnologies: `Dart`, `Flutter`, `Angular`, `JavaScript`, `Firebase`, `Publicação de aplicativos` \
 Activities performed: Bug fixing, interface design, development of web and mobile interfaces faithful to the design. \
 Period: April - 2023 | at the moment
 
@@ -34,7 +34,7 @@ Period: April - 2023 | at the moment
 
 **Mobile Developer** \
 [**Foursys - Soluções em TI**](https://www.foursys.com.br/) • Full-time \
-Languages & Tecnologies: `Dart`, `Flutter`, `JavaScript`, `HTML`, `CSS` \
+Languages & Tecnologies: `Dart`, `Flutter`, `JavaScript` \
 Activities performed: Bug fixing, development of web and mobile interfaces faithful to the design. \
 Period: October - 2022 | January - 2023
 
@@ -44,7 +44,7 @@ Period: October - 2022 | January - 2023
 
 **Software Development** \
 [**Foursys - Soluções em TI**](https://www.foursys.com.br/) • Part-time (Intern) \
-Languages & Tecnologies: `Dart`, `Flutter`, `JavaScript`, `HTML`, `CSS` \
+Languages & Tecnologies: `Dart`, `Flutter`, `JavaScript` \
 Activities performed: Bug fixing, development of web and mobile interfaces faithful to the design. \
 Period: April/October - 2022
 
