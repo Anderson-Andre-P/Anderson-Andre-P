@@ -8,7 +8,7 @@ In addition to my technical skills, I possess a variety of soft skills that are 
 
 I am eager to take on new challenges and work on projects that allow me to further develop my skills in software development. My goal is to leverage my technical and non-technical skills to contribute to the development of efficient and effective software solutions.
 
-Currently, I am focused on honing my skills in JS Stack to develop for web and Mobile.
+Currently, I'm focused on improving my skills in the Flutter ecosystem to develop cross-platform applications.
 
 • I am currently Focused on developing my **software development skills**
 <br/>• Enthusiast of the **great web apps** and **modern** technologies
