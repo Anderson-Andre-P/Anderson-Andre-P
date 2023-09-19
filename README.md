@@ -66,7 +66,7 @@ Period: November/December - 2021
  <div> 
   <a href = "mailto:eleu.ander@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-404D59?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-andre-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anderson-andre-pereira/" target="_blank"><img src="https://img.shields.io/badge/-Blog-9F6FCF?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
+  <a href="https://anderson-andre.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Blog-9F6FCF?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
   
 
 <!--   <a href="https://anderson-andre.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Medium-404D59?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  -->
