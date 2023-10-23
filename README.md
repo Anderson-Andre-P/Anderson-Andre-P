@@ -26,8 +26,7 @@ Archtetures MVVM & MVP • Clean Code • **Performance** • **Flutter** • Be
 [**IE Tecnologia**](https://www.ietecnologia.com/) • Full-time \
 Languages & Tecnologies: `Dart`, `Flutter`, `Angular`, `JavaScript`, `Firebase`, `Publicação de aplicativos` \
 Activities performed: Bug fixing, interface design, development of web and mobile interfaces faithful to the design. \
-Period: April - 2023 | at the moment
-
+Period: April - 2023 | October - 2023
 <br/>
 
 [<img align="left" height="120px" width="120px" alt="Foursys" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/foursys_logo.jpeg"/>](https://www.foursys.com.br/)
