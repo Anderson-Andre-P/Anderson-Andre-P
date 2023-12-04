@@ -17,7 +17,7 @@ Currently, I'm focused on improving my skills in the Flutter ecosystem to develo
 Archtetures MVVM & MVP • Clean Code • **Performance** • **Flutter** • Best practices
  
 <!-- **Skills I'm interested in developing**:</br> -->
-
+<!--   
 ## Latest professional experiences
 
 [<img align="left" height="120px" width="120px" alt="IE Tecnologia" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/ie_logo.jpeg"/>](https://www.ietecnologia.com/)
@@ -58,7 +58,7 @@ Activities performed: Web interface design development, development of web inter
 Period: November/December - 2021
 
 <br />
-
+ -->
 
 ## Where to find me
  
