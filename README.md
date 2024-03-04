@@ -1,6 +1,6 @@
 ## Hello, my name is Anderson André!
 
-Software developer with a background in Information Systems and a passion for developing efficient and effective software solutions. My technical skills cover a broad range of areas, including OOP, version control, database management and software design (MVC & MVVM). I am also familiar with various agile methodologies and project management frameworks such as Scrum.
+**Software Engineer** with a background in Information Systems and a passion for developing efficient and effective software solutions. My technical skills cover a broad range of areas, including OOP, version control, database management and software design (MVC & MVVM). I am also familiar with various agile methodologies and project management frameworks such as Scrum.
 
 Previously, I worked as a mobile and web developer at a software production company, where I was responsible for developing application screens and functionalities using modern frameworks and libraries. I also have experience in fixing bugs and troubleshooting issues in existing software systems. Apart from my professional experience, I am always working on personal projects to improve my skills and keep up with the latest trends and advancements in the industry.
 
