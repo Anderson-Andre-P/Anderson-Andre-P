@@ -14,7 +14,7 @@ Currently, I'm focused on improving my skills in the Flutter ecosystem to develo
 <br/>• Enthusiast of the **great web apps** and **modern** technologies
 
 **Skills I'm currently developing**:</br>
-Archtetures MVVM & MVP • Data Structure & Algorithms • **Docker** • **Spring Boot** • Back-end
+Data Structure & Algorithms
  
 <!-- **Skills I'm interested in developing**:</br> -->
 <!--   
