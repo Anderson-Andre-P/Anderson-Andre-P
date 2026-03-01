@@ -1,20 +1,38 @@
-## Hello, my name is Anderson André!
+## Hello, I'm Anderson André
 
-**Software Engineer** with a background in Information Systems and a passion for developing efficient and effective software solutions. My technical skills cover a broad range of areas, including OOP, version control, DSA and software design (MVC & MVVM). I am also familiar with various agile methodologies and project management frameworks such as Scrum.
+**Mobile Developer (Flutter)** focused on building scalable, maintainable, and high-quality cross-platform applications.
 
-Previously, I worked as a mobile and web developer at a software production company, where I was responsible for developing application screens and functionalities using modern frameworks and libraries. I also have experience in fixing bugs and troubleshooting issues in existing software systems. Apart from my professional experience, I am always working on personal projects to improve my skills and keep up with the latest trends and advancements in the industry.
+I hold a degree in **Information Systems** and I am currently pursuing a **Master’s degree in Computer Science**, combining academic research with practical software engineering to design robust and well-structured mobile solutions.
 
-In addition to my technical skills, I possess a variety of soft skills that are essential for success in software development. I have strong problem-solving abilities and can quickly adapt to changing circumstances. I am also an effective communicator and collaborator, with excellent written and verbal communication skills. I am able to work well in a team environment, and I am always willing to lend a helping hand to my colleagues.
+### What I Do
 
-I am eager to take on new challenges and work on projects that allow me to further develop my skills in software development. My goal is to leverage my technical and non-technical skills to contribute to the development of efficient and effective software solutions.
+* Develop cross-platform mobile applications using **Flutter & Dart**
+* Apply **Clean Architecture principles** to ensure scalability, modularity, and testability
+* Design systems with clear separation of concerns (Domain / Data / Presentation)
+* Implement predictable state management and maintainable UI structures
+* Integrate REST APIs and manage asynchronous and offline-first scenarios
+* Investigate and resolve performance issues, architectural bottlenecks, and production bugs
+* Continuously refactor and evolve codebases to support long-term product growth
 
-Currently, I'm focused on improving my skills in the Flutter ecosystem to develop cross-platform applications.
+### Engineering Interests
 
-• I am currently Focused on developing my **software development skills**
-<br/>• Enthusiast of the **great web apps** and **modern** technologies
+My academic and professional work converges around:
 
-**Skills I'm currently developing**:</br>
-Data Structure & Algorithms
+* Software Architecture for mobile applications
+* Data Structures & Algorithms for efficient problem-solving
+* Maintainability and evolution of large-scale Flutter codebases
+* Application of engineering principles to real-world products
+
+### Mindset
+
+I treat software development as an engineering discipline — focusing on clarity, correctness, and sustainability rather than short-term delivery.
+My goal is to build systems that remain understandable, testable, and adaptable over time.
+
+### Current Focus
+
+Advancing expertise in the **Flutter ecosystem**, large-scale application architecture, and research-driven approaches to software design through my Master’s studies.
+
+---
  
 <!-- **Skills I'm interested in developing**:</br> -->
 <!--   
