@@ -1,90 +1,76 @@
-## Hello, I'm Anderson André
 
-**Mobile Developer (Flutter)** focused on building scalable, maintainable, and high-quality cross-platform applications.
+```console
+$ whoami
 
-I hold a degree in **Information Systems** and I am currently pursuing a **Master’s degree in Computer Science**, combining academic research with practical software engineering to design robust and well-structured mobile solutions.
+Anderson André
 
-### What I Do
+Mobile Software Engineer
+M.Sc. Student in Computer Science
+Building cross-platform apps with Flutter.
+```
 
-* Develop cross-platform mobile applications using **Flutter & Dart**
-* Apply **Clean Architecture principles** to ensure scalability, modularity, and testability
-* Design systems with clear separation of concerns (Domain / Data / Presentation)
-* Implement predictable state management and maintainable UI structures
-* Integrate REST APIs and manage asynchronous and offline-first scenarios
-* Investigate and resolve performance issues, architectural bottlenecks, and production bugs
-* Continuously refactor and evolve codebases to support long-term product growth
+```console
+$ cat mission.txt
 
-### Engineering Interests
+Build software that scales.
+Write code that people enjoy maintaining.
+Keep learning, one commit at a time.
+```
 
-My academic and professional work converges around:
+```console
+$ now
 
-* Software Architecture for mobile applications
-* Data Structures & Algorithms for efficient problem-solving
-* Maintainability and evolution of large-scale Flutter codebases
-* Application of engineering principles to real-world products
+Working On
+├── Software Architecture
+├── System Design
+└── AI for Software Engineering
 
-### Mindset
+Reading
+└── Computer Science & Architecture books
+```
 
-I treat software development as an engineering discipline — focusing on clarity, correctness, and sustainability rather than short-term delivery.
-My goal is to build systems that remain understandable, testable, and adaptable over time.
+```console
+$ history
 
-### Current Focus
+1  flutter run
+2  it works!
+3  make a small change
+4  it doesn't work anymore
+5  debug
+6  it works again
+```
 
-Advancing expertise in the **Flutter ecosystem**, large-scale application architecture, and research-driven approaches to software design through my Master’s studies.
+```console
+$ fortune
+
+"The best code is the code your teammates can understand six months later."
+```
 
 ---
- 
-<!-- **Skills I'm interested in developing**:</br> -->
-<!--   
-## Latest professional experiences
 
-[<img align="left" height="120px" width="120px" alt="IE Tecnologia" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/ie_logo.jpeg"/>](https://www.ietecnologia.com/)
+## Connect
 
-**Software Development** \
-[**IE Tecnologia**](https://www.ietecnologia.com/) • Full-time \
-Languages & Tecnologies: `Dart`, `Flutter`, `Angular`, `JavaScript`, `Firebase`, `Publicação de aplicativos` \
-Activities performed: Bug fixing, interface design, development of web and mobile interfaces faithful to the design. \
-Period: April - 2023 | October - 2023
-<br/>
+<div>
+  <a href="mailto:eleu.ander@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-404D59?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-[<img align="left" height="120px" width="120px" alt="Foursys" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/foursys_logo.jpeg"/>](https://www.foursys.com.br/)
+  <a href="https://www.linkedin.com/in/anderson-andre-pereira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-**Mobile Developer** \
-[**Foursys - Soluções em TI**](https://www.foursys.com.br/) • Full-time \
-Languages & Tecnologies: `Dart`, `Flutter`, `JavaScript` \
-Activities performed: Bug fixing, development of web and mobile interfaces faithful to the design. \
-Period: October - 2022 | January - 2023
+  <a href="https://anderson-andre.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Blog-9F6FCF?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  </a>
 
-<br />
-
-[<img align="left" height="120px" width="120px" alt="Foursys" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/foursys_logo.jpeg"/>](https://www.foursys.com.br/)
-
-**Software Development** \
-[**Foursys - Soluções em TI**](https://www.foursys.com.br/) • Part-time (Intern) \
-Languages & Tecnologies: `Dart`, `Flutter`, `JavaScript` \
-Activities performed: Bug fixing, development of web and mobile interfaces faithful to the design. \
-Period: April/October - 2022
-
-<br />
-
-[<img align="left" height="120px" width="120px" alt="Foursys" src="https://github.com/Anderson-Andre-P/Anderson-Andre-P/blob/main/images/prefeitura_logo.jpeg"/>](https://itajuba.proconvoce.com.br/)
-
-**Web Developer** \
-[**Procon**](https://itajuba.proconvoce.com.br/) • Part-time (Intern) \
-Languages & Tecnologies: `HTML`, `CSS`, `JavaScript`, `Angular`, `TypeScript`, `Bootstrap` \
-Activities performed: Web interface design development, development of web interfaces faithful to the design. \
-Period: November/December - 2021
-
-<br />
- -->
-
-## Where to find me
- 
- <div> 
-  <a href = "mailto:eleu.ander@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-404D59?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anderson-andre-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://anderson-andre.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Blog-9F6FCF?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
-  
-
-<!--   <a href="https://anderson-andre.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Medium-404D59?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  -->
+  <!-- Resume Badge -->
 </div>
+
+<!-- GitHub Stats -->
+
+<!--
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anderson-Andre-P&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Andre-P&layout=compact&hide_border=true" />
+</p>
+-->
