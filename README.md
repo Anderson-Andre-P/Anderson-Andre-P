@@ -60,11 +60,19 @@ $ fortune
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
+  
+
+  <a href="[https://www.linkedin.com/in/anderson-andre-pereira/](https://drive.google.com/file/d/14viAvEa4Nk8se3LTfLx5H3scNg78EW51/view?usp=sharing)" target="_blank">
+    <img src="https://img.shields.io/badge/RESUME-ff0000?style=for-the-badge">
+  </a>
+  
+  <!--
   <a href="https://anderson-andre.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Blog-9F6FCF?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>
+  -->
 
-  <!-- Resume Badge -->
+
 </div>
 
 <!-- GitHub Stats -->
