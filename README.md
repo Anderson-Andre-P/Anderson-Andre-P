@@ -32,12 +32,13 @@ Reading
 ```console
 $ history
 
-1  flutter run
-2  it works!
-3  make a small change
-4  it doesn't work anymore
-5  debug
-6  it works again
+1  coffee --brew
+2  flutter run
+3  git commit -m "it should work"
+4  flutter test
+5  coffee --refill
+6  git push
+7  repeat
 ```
 
 ```console
