@@ -61,8 +61,7 @@ $ fortune
   </a>
 
   
-
-  <a href="[https://www.linkedin.com/in/anderson-andre-pereira/](https://drive.google.com/file/d/14viAvEa4Nk8se3LTfLx5H3scNg78EW51/view?usp=sharing)" target="_blank">
+  <a href="https://drive.google.com/file/d/14viAvEa4Nk8se3LTfLx5H3scNg78EW51/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/RESUME-ff0000?style=for-the-badge">
   </a>
   
