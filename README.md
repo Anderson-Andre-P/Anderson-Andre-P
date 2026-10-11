@@ -2,7 +2,7 @@
 ```console
 $ whoami
 
-Anderson André
+Anderson André (Andershow for friends)
 
 Mobile Software Engineer
 M.Sc. Student in Computer Science
